@@ -67,3 +67,9 @@ _По умолчанию эти права есть только у операт
 - Игроки, пытающиеся использовать заблокированную команду в мире, получат сообщение о блокировке.
 - Для динамических изменений используйте команды; изменения сохраняются в конфиге автоматически.
 - Перезагружайте конфиг командой `/jcmdbreload` после ручных правок в файле.
+
+<img width="256" height="149" alt="Screenshot_16" src="https://github.com/user-attachments/assets/a8f10bdf-cb21-4d86-b0be-97c4a0295afe" />
+<img width="638" height="158" alt="Screenshot_14" src="https://github.com/user-attachments/assets/b2a37229-8143-4b05-9928-940754b1ab6c" />
+<img width="698" height="87" alt="Screenshot_21" src="https://github.com/user-attachments/assets/d2cff45f-3edf-4a54-a822-5f02d664cc87" />
+<img width="1029" height="297" alt="Screenshot_20" src="https://github.com/user-attachments/assets/6699dae9-bb53-44d0-b0bb-c47bda33c84a" />
+<img width="1022" height="589" alt="Screenshot_19" src="https://github.com/user-attachments/assets/5acfdb6e-72ef-439e-8413-beeb5cf8ca40" />
