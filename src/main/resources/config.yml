@@ -1,0 +1,27 @@
+messages:
+  no_permission: "&cУ вас нет разрешения на использование этой команды."
+  blocked_command: "&cЭта команда заблокирована в этом мире."
+  reload: "&aПлагин успешно перезагружен."
+  add: "&aКоманда '%command%' заблокирована в мире '%world%'."
+  del: "&aКоманда '%command%' разблокирована в мире '%world%'."
+  not_found: "&cКоманда '%command%' не найдена в мире '%world%'."
+  usage:
+    - ""
+    - "&fИспользование:"
+    - "&a/cmdblocker add <command> <world> - Заблокировать команду в мире"
+    - "&a/cmdblocker del <command> <world> - Разблокировать команду в мире"
+    - "&a/cmdblocker list - Показать список заблокированных команд"
+    - ""
+  world_not_found: "&cМир '%world%' не найден."
+  already_blocked: "&cКоманда уже заблокирована в этом мире."
+  invalid_subcommand: "&cНеверная подкоманда. Используйте add, del или list."
+  list_header: "&aСписок заблокированных команд:"
+  no_blocked: "&cНет заблокированных команд."
+  world_header: "&eМир: %world%"
+  no_commands: "&7  Нет заблокированных команд."
+  commands_list: "&7  Заблокированные команды: &c%commands%"
+worlds:
+  world: []
+  world_nether: []
+  world_the_end: []
+  custom_world: []

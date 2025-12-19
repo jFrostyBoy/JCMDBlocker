@@ -1,0 +1,20 @@
+name: JCMDBlocker
+version: '${project.version}'
+main: jfbdev.jcmdblocker.JCMDBlocker
+api-version: '1.16'
+authors: [ jFrostyBoy ]
+
+commands:
+  jcmdbreload:
+    description: Перезагрузка плагина
+    permission: jcmdblocker.reload
+  cmdblocker:
+    description: Управление командами в мирах
+    permission: jcmdblocker.admin
+    usage: /cmdblocker <add|del|list> <command> <world>
+
+permissions:
+  jcmdblocker.reload:
+    default: op
+  jcmdblocker.admin:
+    default: op
