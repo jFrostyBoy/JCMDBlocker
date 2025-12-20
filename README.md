@@ -1,5 +1,9 @@
 ## JCMDBlocker - Плагин для блокировки команд по мирам
 
+**Ядро:** Paper/Spigot  
+**Версия:** 1.16.5 — 1.21.1  
+**Java:** 16+  
+
 ### Описание
 **JCMDBlocker** - это простой плагин, который позволяет администраторам блокировать определенные команды в конкретных мирах.  
 Это полезно для контроля доступа игроков к командам в разных частях сервера (например, запрет /fly в End-мире и тд).  
@@ -73,3 +77,4 @@ _По умолчанию эти права есть только у операт
 <img width="698" height="87" alt="Screenshot_21" src="https://github.com/user-attachments/assets/d2cff45f-3edf-4a54-a822-5f02d664cc87" />
 <img width="1029" height="297" alt="Screenshot_20" src="https://github.com/user-attachments/assets/6699dae9-bb53-44d0-b0bb-c47bda33c84a" />
 <img width="1022" height="589" alt="Screenshot_19" src="https://github.com/user-attachments/assets/5acfdb6e-72ef-439e-8413-beeb5cf8ca40" />
+
